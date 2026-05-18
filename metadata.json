@@ -1,0 +1,6 @@
+{
+  "name": "Prepare Outdoor - Katalog & POS Rental Alat Pendakian",
+  "description": "Aplikasi penyewaan alat pendakian dengan sistem katalog real-time, integrasi QRIS, dan POS Kasir berbasis QR Scanner.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
